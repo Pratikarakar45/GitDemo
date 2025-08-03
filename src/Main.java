@@ -1,27 +1,56 @@
 /// /TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 /// / click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-//public class Main {
-//
-//    public static void main(String[] args) {
-/// /        System.out.print("hello world\napka swagat haiii\n");
-/// /        System.out.println("java is here");
-/// /        System.out.print("main hoon na");
-/// /        System.out.println("*");
-/// /        System.out.print("**\n");
-/// /        System.out.print("***\n");
-/// /        System.out.print("****");
-//      int a=65;
-//      int b=45;
-//      int c=5;
-/// /      int sum = a+b+c;
-/// /      System.out.print(sum);
-/// /      int mult= a*b;
-/// /      System.out.print(mult);
-//      int div = b/c;
-//        System.out.print(div);
-//
-//    }
-//}
+public class Main {
+
+    public static void main(String[] args) {
+/ /        System.out.print("hello world\napka swagat haiii\n");
+/ /        System.out.println("java is here");
+/ /        System.out.print("main hoon na");
+/ /        System.out.println("*");
+/ /        System.out.print("**\n");
+/ /        System.out.print("***\n");
+/ /        System.out.print("****");
+      int a=65;
+      int b=45;
+      int c=5;
+  int sum = a+b+c;
+  System.out.print(sum);
+ int mult= a*b;
+  System.out.print(mult);
+      int div = b/c;
+        System.out.print(div);
+
+    }
+}
+
+
+public class Main {
+
+    public static void main(String[] args) {
+/ /        System.out.print("hello world\napka swagat haiii\n");
+/ /        System.out.println("java is here");
+/ /        System.out.print("main hoon na");
+/ /        System.out.println("*");
+/ /        System.out.print("**\n");
+/ /        System.out.print("***\n");
+/ /        System.out.print("****");
+      int a=65;
+      int b=45;
+      int c=5;
+  int sum = a+b+c;
+  System.out.print(sum);
+ int mult= a*b;
+  System.out.print(mult);
+      int div = b/c;
+        System.out.print(div);
+
+    }
+}
+
+
+
+
+
 //    import java.util.*;
 //public class Main{
 //     public static void main(String[] args){
